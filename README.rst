@@ -31,7 +31,7 @@ You may also use Git to clone the repository from Github and install it manually
     python setup.py install
 
 
-Documentation
+*Documentation*
 =============
 
 The full documentation for API is available on `readthedocs
